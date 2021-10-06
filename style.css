@@ -31,12 +31,18 @@ a{
   right: 34px;
   bottom: 26px;
   color: black;
-  background-color: rgb(8, 245, 28);
-  padding: 8px;
+  /* background-color: none !important; */
+  /* padding: 8px; */
   border: none;
   z-index: 10;
  
 
+
+}
+.top1{
+  background:none;
+  border: none;
+  outline: none;
 
 }
 h1,h2{
